@@ -22,7 +22,7 @@ function Mics() {
                   Supply
                 </div>
                 <div className="text-center text-white text-[32px] font-bold font-['Space Grotesk']">
-                  1,000,000,000
+                  1 Billion
                 </div>
               </div>
             </div>
@@ -34,10 +34,10 @@ function Mics() {
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center text-white text-2xl font-normal font-['Space Grotesk']">
-                  Supply
+                  Taxes{" "}
                 </div>
                 <div className="text-center text-white text-[32px] font-bold font-['Space Grotesk']">
-                  1,000,000,000
+                  0%{" "}
                 </div>
               </div>
             </div>
@@ -49,10 +49,10 @@ function Mics() {
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center text-white text-2xl font-normal font-['Space Grotesk']">
-                  Supply
+                  Max txn{" "}
                 </div>
                 <div className="text-center text-white text-[32px] font-bold font-['Space Grotesk']">
-                  1,000,000,000
+                  2%{" "}
                 </div>
               </div>
             </div>

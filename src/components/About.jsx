@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo2.svg";
+import logo from "../assets/logo.svg";
 
 function About() {
   return (
@@ -7,22 +7,19 @@ function About() {
       <div className="container flex justify-center items-center flex-col gap-28">
         <h1>
           <div className="max-w-[815px] text-center text-6xl font-bold font-SpaceGro">
-            About <span className="text-yellow-400">BeastTheDog</span>
+            I’m worth <span className="text-yellow-400">billions</span>
           </div>
         </h1>
 
         <div className="w-full grid lg:grid-cols-2 justify-between items-center gap-16">
           <p className="max-w-[522px] text-white text-base font-normal font-['Space Grotesk'] leading-loose tracking-tight">
-            Floki, Meet DeFido! This brand new token was born merely moments
-            after Coinbase tweeted their dog named “DeFido” at Elon Musk. & this
-            French Bulldog is ready for lift off! Come join him on his journey
-            to the Moon base and beyond!
+            Yep! You heard it right. BILLIONS!
             <br />
             <br />
-            Floki, Meet DeFido! This brand new token was born merely moments
-            after Coinbase tweeted their dog named “DeFido” at Elon Musk. & this
-            French Bulldog is ready for lift off! Come join him on his journey
-            to the Moon base and beyond!
+            “I’ve been a poor dog and a rich dog and I’ll choose rich every
+            time.” Since my adoption in 2011 I’ve chartered the world on mega
+            yachts, private jets, super secretive government tunnels and now
+            we’ve found our way into the Ethereum Blockchain.
           </p>
           <img src={logo} alt="" />
         </div>

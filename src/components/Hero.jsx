@@ -1,19 +1,18 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../assets/img1.svg";
 
 function Hero() {
   return (
     <section className=" w-full pt-36">
       <div className="container grid lg:grid-cols-2 justify-between items-center gap-20">
         <article className="flex flex-col gap-6">
-          <h1 className=" text-white text-6xl font-bold font-SpaceGro max-w-[500px] leading-[1.2]">
-            BUIDLer for Web3 builders
+          <h1 className=" text-white text-5xl font-bold font-SpaceGro max-w-[500px] leading-[1.2]">
+            Hi, I’m Beast! mark Zuckerbergs puppy.{" "}
           </h1>
           <p className="max-w-[522px] text-white text-base font-normal font-['Space Grotesk'] leading-loose tracking-tight">
-            Floki, Meet DeFido! This brand new token was born merely moments
-            after Coinbase tweeted their dog named “DeFido” at Elon Musk. & this
-            French Bulldog is ready for lift off! Come join him on his journey
-            to the Moon base and beyond!
+            I’m a Puli breed living in Palo Alto and have 2.4 million followers
+            on Facebook. I was adopted in 2011 by the tech giant Mark Zuckerberg
+            and his wife Priscilla Chan.
           </p>
           <a
             href="https://t.me/BeastTheDog"
@@ -27,7 +26,7 @@ function Hero() {
             </div>
           </a>
         </article>
-        <img src={logo} alt="" />
+        <img src={logo} alt="" className="lg:w-[40rem]" />
       </div>
     </section>
   );

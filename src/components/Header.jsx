@@ -6,7 +6,7 @@ function Header() {
       <nav className="container ">
         <div className="border border-[#D35236] w-full h-full p-5 rounded-b-lg border-t-0 flex justify-between items-center">
           <a href="" className="text-white text-2xl font-bold font-SpaceGro">
-            BestTheDog
+            BeastTheDog
           </a>{" "}
           <div className="hidden justify-start items-start gap-[72px] lg:inline-flex">
             <div className="text-white text-base font-normal font-['Inter']">
