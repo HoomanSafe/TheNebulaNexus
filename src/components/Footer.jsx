@@ -60,7 +60,7 @@ const Footer = () => {
             <img src={footerIcon} alt="" className="w-[15rem]" />
           </a>
           <div className="flex items-center gap-3">
-            <a href="https://t.me/">
+            <a href="https://t.me/BeastTheDog">
               <svg
                 width="58"
                 height="58"
@@ -81,7 +81,7 @@ const Footer = () => {
                 />
               </svg>
             </a>
-            <a href="https://x.com/BABYXTau_ETH">
+            <a href="https://x.com/BeastTheDogETH">
               <svg
                 width="58"
                 height="58"
