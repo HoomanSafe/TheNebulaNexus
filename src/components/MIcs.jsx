@@ -1,5 +1,5 @@
 import React from "react";
-import cat from "../assets/cat.svg";
+import cat from "../assets/logo.png";
 
 function Mics() {
   return (
@@ -22,7 +22,7 @@ function Mics() {
                   Supply
                 </div>
                 <div className="text-center text-white text-[32px] font-bold font-['Space Grotesk']">
-                  1 Billion
+                  100 Billion
                 </div>
               </div>
             </div>
@@ -37,7 +37,7 @@ function Mics() {
                   Taxes{" "}
                 </div>
                 <div className="text-center text-white text-[32px] font-bold font-['Space Grotesk']">
-                  0%{" "}
+                  5%{" "}
                 </div>
               </div>
             </div>
@@ -49,10 +49,10 @@ function Mics() {
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center text-white text-2xl font-normal font-['Space Grotesk']">
-                  Max txn{" "}
+                  Max{" "}
                 </div>
                 <div className="text-center text-white text-[32px] font-bold font-['Space Grotesk']">
-                  2%{" "}
+                  4%{" "}
                 </div>
               </div>
             </div>
