@@ -1,6 +1,6 @@
 import React from "react";
-import footerLogo from "../assets/logo.svg";
-import footerIcon from "../assets/cat.svg";
+import footerLogo from "../assets/logo.png";
+import footerIcon from "../assets/logo.jpeg";
 const Footer = () => {
   return (
     <section className="w-full py-16 bgw" id="footer">
@@ -14,7 +14,7 @@ const Footer = () => {
           </h1>
           <h2 className="flex-col justify-start items-center gap-[9px] flex">
             <div className="text-center footer-text text-white md:text-2xl font-normal">
-              CA: 0x0000000
+              CA: 0x9Aad9412c263Bd45732cdf6e3889a31e744CDE93
             </div>
             {/* <p className="text-center footer-text text-white text-[32px] font-normal">
               discover the power of bitpepe in his very exciting journey
@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
         <div className="flex flex-col md:flex-row justify-center items-center gap-5">
           <a
-            href="https://t.me/BeastTheDog"
+            href="https://t.me/NebulaNexusBNB"
             className="w-[215px] h-[54px] footer-text px-8 py-4 bg-white shadow border border-amber-300 justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-black  text-base font-bold leading-snug tracking-tight">
@@ -31,7 +31,7 @@ const Footer = () => {
             </div>
           </a>
           <a
-            href="https://twitter.com/BeastTheDogETH"
+            href="https://x.com/NebulaNexusBnb"
             className="w-[215px] h-[54px] footer-text px-8 py-4 bg-white shadow border border-amber-300 justify-center items-center gap-2.5 inline-flex"
           >
             <div className="text-black text-base font-bold leading-snug tracking-tight">
@@ -60,7 +60,7 @@ const Footer = () => {
             <img src={footerIcon} alt="" className="w-[15rem]" />
           </a>
           <div className="flex items-center gap-3">
-            <a href="https://t.me/BeastTheDog">
+            <a href="https://t.me/NebulaNexusBNB">
               <svg
                 width="58"
                 height="58"
@@ -81,7 +81,7 @@ const Footer = () => {
                 />
               </svg>
             </a>
-            <a href="https://x.com/BeastTheDogETH">
+            <a href="https://x.com/NebulaNexusBnb">
               <svg
                 width="58"
                 height="58"
