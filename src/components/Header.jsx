@@ -6,7 +6,7 @@ function Header() {
       <nav className="container ">
         <div className="border border-[#D35236] w-full h-full p-5 rounded-b-lg border-t-0 flex justify-between items-center">
           <a href="" className="text-white text-2xl font-bold font-SpaceGro">
-            BeastTheDog
+            NebulaNexus
           </a>{" "}
           <div className="hidden justify-start items-start gap-[72px] lg:inline-flex">
             <div className="text-white text-base font-normal font-['Inter']">
@@ -20,7 +20,7 @@ function Header() {
             </div>
           </div>
           <a
-            href="https://t.me/BeastTheDog"
+            href="https://t.me/NebulaNexusBNB"
             className="w-[181px] block h-[52px] relative"
           >
             <div className="w-[173px] h-11 left-[8px] top-[8px] absolute bg-yellow-400" />
