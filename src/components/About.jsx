@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.png";
 
 function About() {
   return (
@@ -16,10 +16,8 @@ function About() {
             Yep! You heard it right. BILLIONS!
             <br />
             <br />
-            “I’ve been a poor dog and a rich dog and I’ll choose rich every
-            time.” Since my adoption in 2011 I’ve chartered the world on mega
-            yachts, private jets, super secretive government tunnels and now
-            we’ve found our way into the Ethereum Blockchain.
+            “The main goal of this nebula nexus is to help fans
+globally so they can realize and achieve their dreams of becoming secure crypto traders.
           </p>
           <img src={logo} alt="" />
         </div>
