@@ -25,6 +25,17 @@ We aim to build a bot that will be detected by fake smart contracts and this is 
               </div>
             </div>
           </a>
+          <a
+            href="https://nexus-nebula.gitbook.io/nexus-nebula-docs/"
+            className="w-[181px] block h-[52px] relative"
+          >
+            <div className="w-[173px] h-11 left-[8px] top-[8px] absolute bg-yellow-400" />
+            <div className="w-[177px] px-6 py-3.5 left-0 top-0 absolute bg-gradient-to-r from-amber-500 to-orange-500 border border-white justify-center items-center gap-2.5 inline-flex">
+              <div className="text-white text-base font-bold font-['Space Grotesk']">
+                Whitepaper
+              </div>
+            </div>
+          </a>
         </article>
         <img src={logo} alt="" className="lg:w-[40rem]" />
       </div>
